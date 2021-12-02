@@ -1,0 +1,38 @@
+Windows 11
+sudo su
+
+wget -O w11lite.sh https://bit.ly/w11rdpLite
+
+chmod +x w11lite.sh
+
+./w11lite.sh
+
+
+
+Windows 8.1
+sudo su
+
+wget -O w8lite.sh https://bit.ly/w8rdplite
+
+chmod +x w8lite.sh
+
+./w8lite.sh
+
+
+
+Windows 7
+sudo su
+
+wget -O w7lite.sh https://bit.ly/w7rdplite
+
+chmod +x w7lite.sh
+
+./w7lite.sh
+
+
+https://www.fakemail.net/
+
+https://dashboard.ngrok.com/get-started/your-authtoken
+
+https://www.katacoda.com/openshift/courses/subsystems/container-internals-lab-2-0-part-1
+
